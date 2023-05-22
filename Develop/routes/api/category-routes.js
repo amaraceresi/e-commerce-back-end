@@ -62,6 +62,11 @@ router.put("/:id", async (req, res) => {
 
 router.delete("/:id", async (req, res) => {
   try {
+    const data = await Category.destroy(req.params.id)
+    if(!data) {
+      res.status(404).json({message: "Nothing was found with this ID!"})
+    }
+    res.status(200).json(data)
   } catch (err) {
     res.status(500).json(err);
   }
