@@ -1,5 +1,8 @@
 # E-commerce Back End
 
+
+![Demo gif](./assets/13-orm-homework-demo-01.gif)
+
 ## Table of Contents
 - [Video Tutorial](#videotutorial)
 - [Description](#description)
