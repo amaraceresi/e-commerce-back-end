@@ -11,7 +11,7 @@
 
 ## Video Tutorial
 
-https://watch.screencastify.com/v/0i63tm7A0VBut3Xxs2Zw
+[Watch tutorial here] (https://watch.screencastify.com/v/0i63tm7A0VBut3Xxs2Zw)
 
 ## Description
 The E-commerce Back End project is about creating the back end for an e-commerce site. This involves configuring an Express.js API to use Sequelize to interact with a MySQL database.
